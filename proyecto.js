@@ -1,1 +1,1 @@
-del bueno
+del malo
